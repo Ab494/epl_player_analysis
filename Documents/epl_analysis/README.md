@@ -49,6 +49,7 @@ A data analysis project on English Premier League (EPL) player statistics using 
 For Questions or collaborations, reach me via:
    LinkedIn: https://www.linkedin.com/in/evanscheruiyot/
    Email: cheruiyotevans646@gmail.com
+   GitHub: https://github.com/Evanskipngeno/
 
    License
 
