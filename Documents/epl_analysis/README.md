@@ -16,6 +16,7 @@ A data analysis project on English Premier League (EPL) player statistics using 
 - Matplolib
 - Seaborn
 - Jupyter Notebook
+- Git & GitHub
 
     Key Analysis
 
@@ -34,11 +35,14 @@ A data analysis project on English Premier League (EPL) player statistics using 
     How to Use
 
 1: Clone the repo:
-git clone https://github.com/Evanskipngeno/epl_player_analysis.git
-cd epl_player_analysis
+
+- git clone https://github.com/Ab494/epl_player_analysis.
+- cd epl_player_analysis
 
 2: Run the Jupyter Notebook:
- jupyter notebook epl_player_analysis.ipynb
+ - Jupyter notebook epl_player_analysis.ipynb
+ - Open the .ipynb notebook in jupyter or VS Code
+ - Run all cells to explore the analysis
 
     Contact
 
