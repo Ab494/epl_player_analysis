@@ -1,5 +1,6 @@
 
 EPL player analysis
+
 A data analysis project on English Premier League (EPL) player statistics using python and Jupyter Notebook. The Analysis explore player performance, goals scored, cards received, substitutions and more.
 
 Dataset
