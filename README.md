@@ -39,7 +39,7 @@ Appearances vs Substitutions
 
 Visualizing using bar charts and scatter plots
 
-#Insights Summary
+# Insights Summary
 
 Forwards score the highest avarage goals.
 
@@ -47,7 +47,7 @@ Goalkeepers and Defenders have the fewest substitutions.
 
 Players with lower appearance tend to be substituted more often.
 
-How to Use
+# How to Use
 
 1: Clone the repo:
 
@@ -61,10 +61,10 @@ Open the .ipynb notebook in jupyter or VS Code
 
 Run all cells to explore the analysis
 
-Contact
+#Contact
 
 For Questions or collaborations, reach me via: LinkedIn: https://www.linkedin.com/in/evanscheruiyot/ Email: cheruiyotevans646@gmail.com GitHub: https://github.com/Evanskipngeno/
 
-License
+# License
 
 Free to use under MIT license
