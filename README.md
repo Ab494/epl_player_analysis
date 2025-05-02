@@ -13,7 +13,7 @@ A data analysis project on English Premier League (EPL) player statistics using 
 
 'epl_player_analysis.ipynb' _ Jupyter Notebook with full analysis
 
-*Tools & Libraries Used
+# Tools & Libraries Used
 
 Python
 
@@ -27,7 +27,7 @@ Jupyter Notebook
 
 Git & GitHub
 
-Key Analysis
+# Key Analysis
 
 Top goal scorers
 
@@ -39,7 +39,7 @@ Appearances vs Substitutions
 
 Visualizing using bar charts and scatter plots
 
-Insights Summary
+#Insights Summary
 
 Forwards score the highest avarage goals.
 
